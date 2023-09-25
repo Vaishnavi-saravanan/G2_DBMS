@@ -25,14 +25,14 @@ RENAME: This is used to rename an object existing in the database.
 
 
 ### OUTPUT:
-![Screenshot 2023-09-09 135236](https://github.com/Vaishnavi-saravanan/G2_DBMS/assets/118541897/5e1246d3-3c50-4b7a-9551-5c9b092a0ec0)
+
 
 ### 2) Change the above student table by adding another attribute department
 
 ### SQL QUERY: 
 
 ### OUTPUT:
-![Screenshot 2023-09-09 140207](https://github.com/Vaishnavi-saravanan/G2_DBMS/assets/118541897/30ef0a7e-0d9b-4070-ad6f-4d369268e04a)
+
 
 
 ### 3) Drop the student table
@@ -42,7 +42,7 @@ RENAME: This is used to rename an object existing in the database.
 
 ### OUTPUT:
 
-![Screenshot 2023-09-09 140943](https://github.com/Vaishnavi-saravanan/G2_DBMS/assets/118541897/3997801a-9b17-46ce-9920-538f8688b04b)
+
 
 
 ### 4) Delete the student table using truncate keyword
@@ -51,7 +51,7 @@ RENAME: This is used to rename an object existing in the database.
 
 
 ### OUTPUT:
-![Screenshot 2023-09-09 141423](https://github.com/Vaishnavi-saravanan/G2_DBMS/assets/118541897/5616a28a-ce81-4064-9452-047fc629e538)
+
 
 
 
@@ -61,4 +61,4 @@ RENAME: This is used to rename an object existing in the database.
 
 
 ### OUTPUT:
-![Screenshot 2023-09-09 142111](https://github.com/Vaishnavi-saravanan/G2_DBMS/assets/118541897/98b7489c-cd43-4b52-b50e-624166e60c28)
+
