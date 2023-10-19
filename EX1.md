@@ -66,3 +66,5 @@ create table student (rollno numeric ,name varchar(50) , age numeric
 ### OUTPUT:
 
 ![Screenshot 2023-10-19 104025](https://github.com/Vaishnavi-saravanan/G2_DBMS/assets/118541897/efa5c6d6-2058-4756-91f1-13c8fa500c84)
+### RESULT:
+The table is created successfully and queries are executed
